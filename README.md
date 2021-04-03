@@ -7,7 +7,7 @@
   <p>3)Trim</p>
   <p>4)Incentives for people of different department </p>
 
-Today date is 10/3/2021. In case if you are seeing it in 3021. You must me allien
+
 <h2>Solving:</h2>
 <p>As i tried multiple tool like request,selenium ,</p>
  <p> website was dynamic request was not the one</p>
@@ -16,6 +16,7 @@ Today date is 10/3/2021. In case if you are seeing it in 3021. You must me allie
  <p> we will use Scrapy because this is how she likes it </p>
 </p>
 <h2>Results:</h2>
+<p>Today date is 10/3/2021. In case if you are seeing it in 3021. You must me allien</p>
 <p>After trying endless time finally today 10/3/2021 we got sucess lol some inspring shit </p>
   <p>*inner me i was dead for 2 days</p>
 </p>
