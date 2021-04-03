@@ -31,8 +31,7 @@ Today date is 10/3/2021. In case if you are seeing it in 3021. You must me allie
   <p>if this project help you then i m worth of follow </p>
   <p>i do freelancing and stuff if you want scrapper than shot an email more faster than speed of bullet </P>
   <p>mail: contact@awaiskhan.com.pk</p>
-  <p>Going to Mars for coding stuff to avoid noice, Awais khan</p> 
+  <p>Going to Mars for coding stuff to avoid noice and normal people, Awais khan</p> 
 
 
 
-# edmunds-scrapper
