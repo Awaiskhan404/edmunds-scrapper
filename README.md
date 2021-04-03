@@ -1,4 +1,5 @@
 # edmunds-scraper
+
 <h2>Problem Statement:</h2>
 <p>Car Dealers usually really on website https://www.edmunds.com/car-incentives/ from website they want details like </p>
   <p>1)Name of car</p>
@@ -6,6 +7,7 @@
   <p>3)Trim</p>
   <p>4)Incentives for people of different department </p>
 
+Today date is 10/3/2021. In case if you are seeing it in 3021. You must me allien
 <h2>Solving:</h2>
 <p>As i tried multiple tool like request,selenium ,</p>
  <p> website was dynamic request was not the one</p>
